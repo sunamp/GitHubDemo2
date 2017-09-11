@@ -22,6 +22,7 @@ public class ItemDetailFragment extends Fragment {
      * The fragment argument representing the item ID that this fragment
      * represents.
      */
+    // New comments
     public static final String ARG_ITEM_ID = "item_id";
 
     /**

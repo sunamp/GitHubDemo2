@@ -35,6 +35,8 @@ public class ItemListActivity extends AppCompatActivity {
      */
     private boolean mTwoPane;
 
+    // Added some comments
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
